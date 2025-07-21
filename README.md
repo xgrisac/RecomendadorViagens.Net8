@@ -37,27 +37,29 @@ Execute o projeto com o comando:
 
 dotnet run
 Você também pode rodar o projeto direto pelo Visual Studio clicando em F5 ou no botão verde de Run.
+```
 
 # 💡 Objetivo do Projeto
+
 Esse projeto foi criado com os seguintes propósitos:
 
-Aprender na prática o funcionamento de aplicações console em C#
+. Aprender na prática o funcionamento de aplicações console em C#
 
-Exercitar a separação por responsabilidades (Program, Models, Services)
+. Exercitar a separação por responsabilidades (Program, Models, Services)
 
-Compreender como usar Git e GitHub para versionamento
-
-Estudar organização de projetos reais no .NET
+. Estudar organização de projetos reais no .NET
 
 # 📌 Possíveis Melhorias
-Adicionar armazenamento em arquivo (JSON ou banco local)
 
-Interface gráfica com Windows Forms ou WPF
+. implementar o uso de IA para sugerir possíveis destinos
 
-Testes unitários com xUnit
+. Interface gráfica com Windows Forms ou WPF
+
+. Testes unitários com xUnit
 
 📄 Licença
 Este projeto está licenciado sob a MIT License.
 
 👤 Autor
 Desenvolvido por Isac Ribeiro
+
