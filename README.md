@@ -39,18 +39,25 @@ dotnet run
 Você também pode rodar o projeto direto pelo Visual Studio clicando em F5 ou no botão verde de Run.
 
 # 💡 Objetivo do Projeto
+Esse projeto foi criado com os seguintes propósitos:
 
-Esse projeto foi idealizado para praticar:
+Aprender na prática o funcionamento de aplicações console em C#
 
-. Manipulação de listas
+Exercitar a separação por responsabilidades (Program, Models, Services)
 
-. Organização em camadas
+Compreender como usar Git e GitHub para versionamento
 
-. Boas práticas de codificação em C#
+Estudar organização de projetos reais no .NET
 
-. Estrutura de repositório com Git e GitHub
+# 📌 Possíveis Melhorias
+Adicionar armazenamento em arquivo (JSON ou banco local)
 
-#📍 Desenvolvido por Isac Ribeiro
+Interface gráfica com Windows Forms ou WPF
 
-<img width="1830" height="986" alt="image" src="https://github.com/user-attachments/assets/04868782-9329-447f-8500-59d110e63d9b" />
+Testes unitários com xUnit
 
+📄 Licença
+Este projeto está licenciado sob a MIT License.
+
+👤 Autor
+Desenvolvido por Isac Ribeiro
