@@ -1,0 +1,14 @@
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\bin\Debug\net8.0\RecomendadorViagens.exe
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\bin\Debug\net8.0\RecomendadorViagens.deps.json
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\bin\Debug\net8.0\RecomendadorViagens.runtimeconfig.json
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\bin\Debug\net8.0\RecomendadorViagens.dll
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\bin\Debug\net8.0\RecomendadorViagens.pdb
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\RecomendadorViagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\RecomendadorViagens.AssemblyInfoInputs.cache
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\RecomendadorViagens.AssemblyInfo.cs
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\RecomendadorViagens.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\RecomendadorViagens.dll
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\refint\RecomendadorViagens.dll
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\RecomendadorViagens.pdb
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\RecomendadorViagens.genruntimeconfig.cache
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\ref\RecomendadorViagens.dll
