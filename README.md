@@ -52,4 +52,5 @@ Esse projeto foi idealizado para praticar:
 
 #📍 Desenvolvido por Isac Ribeiro
 
-<img width="1830" height="986" alt="RecomendadorViagens" src="https://github.com/user-attachments/assets/69d6debe-ef1b-4b29-a897-b08303d5eaec" />
+<img width="1830" height="986" alt="image" src="https://github.com/user-attachments/assets/04868782-9329-447f-8500-59d110e63d9b" />
+
