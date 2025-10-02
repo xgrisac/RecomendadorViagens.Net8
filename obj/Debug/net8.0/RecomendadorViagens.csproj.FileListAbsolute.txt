@@ -12,3 +12,4 @@ C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\Recomendado
 C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\RecomendadorViagens.pdb
 C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\RecomendadorViagens.genruntimeconfig.cache
 C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\ref\RecomendadorViagens.dll
+C:\Users\Windows 11\OneDrive\Documentos\Projects\RecomendadorViagens\RecomendadorViagens\RecomendadorViagens\obj\Debug\net8.0\RecomendadorViagens.sourcelink.json
